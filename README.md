@@ -12,7 +12,6 @@ CryptoSphere is a fully decoupled, full-stack cryptocurrency trading dashboard. 
 | :---: | :---: |
 | <img src="[LINK_TO_YOUR_FRONTEND_SCREENSHOT_1_HERE]" width="400" alt="Market Dashboard"/> | <img src="[LINK_TO_YOUR_WALLET_SCREENSHOT_2_HERE]" width="400" alt="Wallet Dashboard"/> |
 
-> **Note to Interviewers & Recruiters:** Please view the **[2-Minute Video Walkthrough Link]** linked above for a complete demonstration of the transactional state flow, 2FA security filters, and the Redux state architecture in action.
 
 ---
 
@@ -28,3 +27,5 @@ CryptoSphere is a fully decoupled, full-stack cryptocurrency trading dashboard. 
      ┌───────┴───────┐
      ▼               ▼
 [ MySQL DB ]   [ External Services ] ──( CoinGecko API & Stripe SDK )
+
+🛠️ Technology Stack MatrixInfrastructure LayerFrameworks & Protocols UsedFront-End View EngineReact.js, Vite Core CompilerFront-End Global StateRedux, Async Thunk MiddlewareStyle ArchitectureTailwind CSS, Shadcn UI Components, Lucide IconsApplication ServerJava 17, Spring Boot Framework (v3.x)Identity & AccessSpring Security, JSON Web Tokens (JWT), Java Mail SenderDatabase TierMySQL Relational Engine, Spring Data JPA / HibernateAPI / Finance WrappersCoinGecko RESTful API, Stripe Checkout SDK

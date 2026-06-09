@@ -28,4 +28,5 @@ CryptoSphere is a fully decoupled, full-stack cryptocurrency trading dashboard. 
      ▼               ▼
 [ MySQL DB ]   [ External Services ] ──( CoinGecko API & Stripe SDK )
 
+
 🛠️ Technology Stack MatrixInfrastructure LayerFrameworks & Protocols UsedFront-End View EngineReact.js, Vite Core CompilerFront-End Global StateRedux, Async Thunk MiddlewareStyle ArchitectureTailwind CSS, Shadcn UI Components, Lucide IconsApplication ServerJava 17, Spring Boot Framework (v3.x)Identity & AccessSpring Security, JSON Web Tokens (JWT), Java Mail SenderDatabase TierMySQL Relational Engine, Spring Data JPA / HibernateAPI / Finance WrappersCoinGecko RESTful API, Stripe Checkout SDK

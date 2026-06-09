@@ -1,14 +1,36 @@
 # 🪙 CryptoMart: Enterprise Digital Asset Trading Platform
 
+CryptoMart is a fully decoupled, full-stack cryptocurrency trading dashboard. Designed with production-grade architecture, the platform handles real-time market discovery, asynchronous global state management, secure digital ledger transactions, and international payment checkout flows.
+
+🔗 **[Insert Live Production Deployment Link Here]**
+
+<br/>
+
+## 📺 System Walkthrough & Architecture Video
+
+> **Note to Interviewers:** Click the thumbnail below for a 2-minute demonstration of the transactional state flow, Stripe payment integration, 2FA security filters, and the Redux state architecture in action.
+
+[![CryptoMart Video Demo](https://img.youtube.com/vi/INSERT_YOUR_YOUTUBE_VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=INSERT_YOUR_YOUTUBE_VIDEO_ID_HERE)
+
+*(To use the interactive video thumbnail above, replace `INSERT_YOUR_YOUTUBE_VIDEO_ID_HERE` with your actual YouTube video ID).*
+
+<br/>
+
+## 📸 Platform Interface & Dashboards
+
+### 1. Market Discovery & Live Trading
 <div align="center">
-  <img src="[INSERT_YOUR_IMAGE_LINK_HERE_E.G._HTTPS://GITHUB.COM/USER/REPO/BLOB/MAIN/FRONTEND_V1.1/PUBLIC/IMAGES/LOGO.PNG]" alt="CryptoMart Dashboard Preview" width="900"/>
+  <img src="[INSERT_YOUR_TRADING_DASHBOARD_IMAGE_LINK_HERE]" alt="Market Dashboard" width="850"/>
 </div>
 
 <br/>
 
-CryptoMart is a fully decoupled, full-stack cryptocurrency trading dashboard. Designed with production-grade architecture, the platform handles real-time market discovery, asynchronous global state management, secure digital ledger transactions, and international payment checkout flows.
+### 2. Secure Wallet & Transactions
+<div align="center">
+  <img src="[INSERT_YOUR_WALLET_IMAGE_LINK_HERE]" alt="Wallet Dashboard" width="850"/>
+</div>
 
-🔗 **[Live Production Deployment Link]** | 📺 **[System Walkthrough & Architecture Video Link]**
+<br/>
 
 ---
 

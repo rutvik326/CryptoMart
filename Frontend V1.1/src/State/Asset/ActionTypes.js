@@ -1,0 +1,9 @@
+// Action types for fetching a specific asset (e.g., checking if you own Bitcoin)
+export const GET_ASSET_REQUEST = 'GET_ASSET_REQUEST';
+export const GET_ASSET_SUCCESS = 'GET_ASSET_SUCCESS';
+export const GET_ASSET_FAILURE = 'GET_ASSET_FAILURE';
+
+// Action types for fetching all assets in the user's portfolio
+export const GET_USER_ASSETS_REQUEST = 'GET_USER_ASSETS_REQUEST';
+export const GET_USER_ASSETS_SUCCESS = 'GET_USER_ASSETS_SUCCESS';
+export const GET_USER_ASSETS_FAILURE = 'GET_USER_ASSETS_FAILURE';

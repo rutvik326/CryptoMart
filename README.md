@@ -24,9 +24,9 @@ CryptoMart is a fully decoupled, full-stack cryptocurrency trading dashboard. De
 
 <br/>
 
-### 2. Secure Wallet & Transactions
+### 2. Trading Activity
 <div align="center">
-  <img src="[INSERT_YOUR_WALLET_IMAGE_LINK_HERE]" alt="Wallet Dashboard" width="850"/>
+ <img width="1920" height="927" alt="Image" src="https://github.com/user-attachments/assets/fd7cac6a-7cbe-4827-9145-b4d90aa21db6" />
 </div>
 
 <br/>

@@ -5,8 +5,6 @@ CryptoMart is a fully decoupled, full-stack cryptocurrency trading dashboard. De
 🔗 **[https://cryptomart94.netlify.app/]**
 
 <br/>
-
-
 <br/>
 
 ## 📸 Platform Interface & Dashboards
@@ -154,6 +152,6 @@ Access the interactive client viewport at http://localhost:5173.
 Architected and developed by **[YOUR_NAME]**. 
 Open to software engineering opportunities.
 
-* **LinkedIn:** [Insert LinkedIn Profile Link]
-* **Email:** [Insert Email Address]
-* **Portfolio:** [Insert Portfolio Link (Optional)]
+* **Contact no.:** 9904462593
+* **Email:** rutvikkachhadiya326@gmail.com
+

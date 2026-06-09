@@ -19,7 +19,7 @@ CryptoMart is a fully decoupled, full-stack cryptocurrency trading dashboard. De
 
 ### 1. Market Discovery & Live Trading
 <div align="center">
-  <img width="1920" height="882" alt="Image" src="https://github.com/user-attachments/assets/aa34912b-09ae-46ef-a29c-7e929bcfae74" />
+<img width="1916" height="879" alt="Image" src="https://github.com/user-attachments/assets/734ca16c-e0eb-4725-a068-b40635b27325" />
 </div>
 
 <br/>

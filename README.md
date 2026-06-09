@@ -6,12 +6,6 @@ CryptoMart is a fully decoupled, full-stack cryptocurrency trading dashboard. De
 
 <br/>
 
-## 📺 System Walkthrough & Architecture Video
-
-> **Note to Interviewers:** Click the thumbnail below for a 2-minute demonstration of the transactional state flow, Stripe payment integration, 2FA security filters, and the Redux state architecture in action.
-
-[![CryptoMart Video Demo](https://img.youtube.com/vi/INSERT_YOUR_YOUTUBE_VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=INSERT_YOUR_YOUTUBE_VIDEO_ID_HERE)
-
 
 <br/>
 
